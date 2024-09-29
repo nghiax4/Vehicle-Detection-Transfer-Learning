@@ -54,4 +54,5 @@ After running the model through each image in the test set and submitting to Kag
 ## Credits
 - Guide to Transfer Learning with Keras: https://keras.io/guides/transfer_learning/
 - Kaggle's vehicle classification contest: https://www.kaggle.com/c/vehicle
+- Project was forked from https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb
 - Teammates: Bui Quoc Minh Nhat, Nguyen Pham Quoc An
